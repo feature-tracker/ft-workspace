@@ -4,9 +4,6 @@
     <project name="feature-service" path="$PROJECT_DIR$/feature-service">
       <vcs id="Git" remoteUrl="https://github.com/feature-tracker/feature-service.git" />
     </project>
-    <project name="ft-webapp" path="$PROJECT_DIR$/ft-webapp">
-      <vcs id="Git" remoteUrl="https://github.com/feature-tracker/ft-webapp.git" />
-    </project>
     <project name="api-gateway" path="$PROJECT_DIR$/api-gateway">
       <vcs id="Git" remoteUrl="https://github.com/feature-tracker/api-gateway.git" />
     </project>
