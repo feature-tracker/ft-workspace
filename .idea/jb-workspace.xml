@@ -19,6 +19,12 @@
     <project name="feature-tracker-angular" path="$PROJECT_DIR$/feature-tracker-angular">
       <vcs id="Git" remoteUrl="https://github.com/feature-tracker/feature-tracker-angular.git" />
     </project>
+    <project name="docker-infra" path="$PROJECT_DIR$/docker-infra">
+      <vcs id="Git" remoteUrl="https://github.com/feature-tracker/docker-infra.git" />
+    </project>
+    <project name="openapi-specs" path="$PROJECT_DIR$/openapi-specs">
+      <vcs id="Git" remoteUrl="https://github.com/feature-tracker/openapi-specs.git" />
+    </project>
     <option name="workspace" value="true" />
   </component>
 </project>
