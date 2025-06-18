@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WorkspaceSettings">
+    <project name="feature-service" path="$PROJECT_DIR$/feature-service">
+      <vcs id="Git" remoteUrl="https://github.com/feature-tracker/feature-service.git" />
+    </project>
+    <project name="ft-webapp" path="$PROJECT_DIR$/ft-webapp">
+      <vcs id="Git" remoteUrl="https://github.com/feature-tracker/ft-webapp.git" />
+    </project>
+    <project name="api-gateway" path="$PROJECT_DIR$/api-gateway">
+      <vcs id="Git" remoteUrl="https://github.com/feature-tracker/api-gateway.git" />
+    </project>
+    <project name="notification-service" path="$PROJECT_DIR$/notification-service">
+      <vcs id="Git" remoteUrl="https://github.com/feature-tracker/notification-service.git" />
+    </project>
+    <project name="feature-service" path="$PROJECT_DIR$/user-service">
+      <vcs id="Git" remoteUrl="https://github.com/feature-tracker/user-service.git" />
+    </project>
+    <project name="config-server" path="$PROJECT_DIR$/config-server">
+      <vcs id="Git" remoteUrl="https://github.com/feature-tracker/config-server.git" />
+    </project>
+    <project name="feature-tracker-angular" path="$PROJECT_DIR$/feature-tracker-angular">
+      <vcs id="Git" remoteUrl="https://github.com/feature-tracker/feature-tracker-angular.git" />
+    </project>
+    <option name="workspace" value="true" />
+  </component>
+</project>

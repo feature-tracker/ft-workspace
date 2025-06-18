@@ -1,2 +1,1 @@
-# ft-workspace
-Feature Tracker Application Workspace
+# Feature Tracker Application Workspace
