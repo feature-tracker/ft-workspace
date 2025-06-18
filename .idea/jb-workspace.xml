@@ -10,7 +10,7 @@
     <project name="notification-service" path="$PROJECT_DIR$/notification-service">
       <vcs id="Git" remoteUrl="https://github.com/feature-tracker/notification-service.git" />
     </project>
-    <project name="feature-service" path="$PROJECT_DIR$/user-service">
+    <project name="user-service" path="$PROJECT_DIR$/user-service">
       <vcs id="Git" remoteUrl="https://github.com/feature-tracker/user-service.git" />
     </project>
     <project name="config-server" path="$PROJECT_DIR$/config-server">
